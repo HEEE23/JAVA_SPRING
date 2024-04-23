@@ -2,6 +2,7 @@ public class ObjectArrayExam {
     public static void main(String[] args) {
         // Q. [영화 3편]을 저장 할 [배열을 생성]하고 영화 3편의 데이터를 저장하고 출력하세요
         Movie[] m = new Movie[3];
+
         m[0] = new Movie();
         m[0].mtitle = "A영화";
         m[0].mmajor = "박매일";
