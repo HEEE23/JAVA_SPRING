@@ -22,7 +22,6 @@ public class CarUtilityTest {
         car.carYear = carYear;
         car.carType = carType;
 
-        // carPrint(car);
         CarUtility carUtil = new CarUtility();
         carUtil.carPrint(car);
     }

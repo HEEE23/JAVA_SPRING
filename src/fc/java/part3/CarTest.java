@@ -1,7 +1,6 @@
 package fc.java.part3;
 
 import fc.java.model.CarDTO;
-
 import java.util.Scanner;
 
 public class CarTest {
